@@ -1,0 +1,7 @@
+echo "# high-life-irie" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M Redrose
+git remote add origin https://github.com/Highliderose/high-life-irie.git
+git push -u origin Redrose
